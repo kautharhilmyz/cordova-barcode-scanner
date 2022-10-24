@@ -1,4 +1,4 @@
-# PhoneGap Plugin BarcodeScanner
+# Cordova Plugin Barcode Scanner
 ================================
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
@@ -150,6 +150,12 @@ To add this entry you can use the `edit-config` tag in the `config.xml` like thi
 * Windows implementation currently doesn't support encode functionality.
 
 * On Windows 10 desktop ensure that you have Windows Media Player and Media Feature pack installed.
+
+
+## Changelogs ##
+
+* Change gradle `compile` to `implementation`
+
 
 ## Thanks on Github ##
 
